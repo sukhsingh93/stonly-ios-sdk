@@ -1,2 +1,5 @@
 [submodule "cocoapods"]
 	url = git@github.com:StonlyHQ/stonly-ios-sdk
+[submodule "Stonly.xcframework/ios-arm64_"]
+	path = Stonly.xcframework/ios-arm64_
+	url = git@github.com:sukhsingh93/stonly-ios-sdk
